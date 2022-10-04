@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm walid hassan</h1>
+<h1 align="center">Hi 👋, I'm WALID</h1>
 <h3 align="center">A passionate frontend developer from egypt</h3>
 
 - 🌱 I’m currently learning **node js,sass, nextjs**
