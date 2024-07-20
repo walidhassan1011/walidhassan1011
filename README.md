@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm WALID</h1>
-<h3 align="center">A passionate frontend developer from egypt</h3>
+<h3 align="center">A passionate software engineer from egypt</h3>
 
 - 🌱 I’m currently learning **node js,sass, nextjs**
 
